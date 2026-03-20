@@ -54,7 +54,7 @@ void mysort(linklist&a){
 	pre->next=p;
 	p=q;
 	}
-}//这里的一步要理解 
+}//脮芒脌茂碌脛脪禄虏陆脪陋脌铆陆芒 
 int main(){
 	int a[5]={0,1,2,3,4};
 	linklist l;
